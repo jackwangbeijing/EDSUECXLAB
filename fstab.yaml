@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p208757-e2304009.adobeaemcloud.com/bin/franklin.delivery/jackwangbeijing/EDSUECXLAB/main"
+    url: "https://author-p208757-e2304009.adobeaemcloud.com/bin/franklin.delivery/jackwangbeijing/EDSUECXLAB/main---"
     type: "markup"
     suffix: ".html"
